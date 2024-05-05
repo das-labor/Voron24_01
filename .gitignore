@@ -8,3 +8,4 @@ systemd/
 
 .moonraker.uuid
 
+config/printer-*.cfg

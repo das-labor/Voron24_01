@@ -9,3 +9,6 @@ systemd/
 .moonraker.uuid
 
 config/printer-*.cfg
+config/*.zip
+KAMP
+*.bkp

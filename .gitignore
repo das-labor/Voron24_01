@@ -6,6 +6,8 @@ gcodes/
 moonraker.asvc
 systemd/
 
+.git-old
+
 .moonraker.uuid
 
 config/printer-*.cfg

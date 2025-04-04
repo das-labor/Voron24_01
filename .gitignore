@@ -14,3 +14,9 @@ config/printer-*.cfg
 config/*.zip
 KAMP
 *.bkp
+
+# Ignore Guidelines for now
+Guidelines/
+
+# No KlipperScreenConfig in git
+config/KlipperScreen.conf

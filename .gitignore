@@ -20,3 +20,9 @@ Guidelines/
 
 # No KlipperScreenConfig in git
 config/KlipperScreen.conf
+
+# No Images
+*.png
+*.jpg
+*.jpeg
+
